@@ -1,0 +1,10 @@
+# Masjid Darul Aman – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Darul Aman"
+description: "Masjid Darul Aman, Hämeentie 78, Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-darul-aman     # tiedosto _moskeijat/masjid-darul-aman.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-darul-aman/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-darul-aman"
